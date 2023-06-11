@@ -6,11 +6,15 @@ align-items: center;
 text-align: center;
 }
 h4{
-    color: rgb(255, 157, 0);
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(175, 151, 15);
+    text-decoration: solid;
+    font-size: 200%;
 }
 .card{
     align-items: center;
 }
 
-
-    
+h5 {
+    font-family: fantasy;
+}
