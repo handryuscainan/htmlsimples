@@ -22,9 +22,3 @@ h3 {
     color: rgb(89, 143, 28);}
 .container3{
        margin: 3%; }
-.show{
-    transition-duration: 1s;
-    transition-delay: 1s;
-    transition: all;
-    padding: 100%;
-}
